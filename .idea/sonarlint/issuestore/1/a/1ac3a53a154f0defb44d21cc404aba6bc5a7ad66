@@ -1,15 +1,0 @@
-
-opython:S117"QRename this parameter "Empty" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬бщ¤8мХЩюЧ/
-npython:S117"PRename this parameter "Full" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬бщ¤8мХЩюЧ/
-opython:S117"QRename this parameter "Mutex" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬бщ¤8мХЩюЧ/
-{python:S117"XRename this local variable "Nothing" to match the regular expression ^[_a-z][a-z0-9_]*$.(ЧК€™щяяяя8цХЩюЧ/
-mpython:S117"ORename this parameter "Out" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬бщ¤8цХЩюЧ/
-Opython:S1481"+Remove the unused local variable "Nothing".(ЧК€™щяяяя8цХЩюЧ/
-Opython:S1481"+Remove the unused local variable "Nothing".(ЧК€™щяяяя8цХЩюЧ/
-tpython:S1178"QRename this parameter "Empty" to match the regular expression ^[_a-z][a-z0-9_]*$.(„Кќўыяяяя8цХЩюЧ/
-spython:S1178"PRename this parameter "Full" to match the regular expression ^[_a-z][a-z0-9_]*$.(„Кќўыяяяя8цХЩюЧ/
-tpython:S1178"QRename this parameter "Mutex" to match the regular expression ^[_a-z][a-z0-9_]*$.(„Кќўыяяяя8цХЩюЧ/
-{python:S117?"XRename this local variable "Nothing" to match the regular expression ^[_a-z][a-z0-9_]*$.(ЧК€™щяяяя8цХЩюЧ/
-rpython:S1178"ORename this parameter "Out" to match the regular expression ^[_a-z][a-z0-9_]*$.(„Кќўыяяяя8цХЩюЧ/
-Opython:S1481?"+Remove the unused local variable "Nothing".(ЧК€™щяяяя8цХЩюЧ/
-Opython:S1481D"+Remove the unused local variable "Nothing".(ЧК€™щяяяя8цХЩюЧ/
