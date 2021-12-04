@@ -21,7 +21,7 @@
 * 覆盖率：收集每次执行的代码覆盖率，并有限Fuzz触发新分支的输入，一般采用基本块或者分支来统计代码覆盖率
 * 启发式：使用污点分析等方法帮助Fuzz
 
-![image-20211204154619910](file://C:\Users\Mr.yao\AppData\Roaming\Typora\typora-user-images\image-20211204154619910.png?lastModify=1638605143)
+![image.png](./assets/1638611325162-image.png)
 
 Anti-Fuzzing的原理如上，为内部人员提供经处理的二进制文件以方便内部人员通过Fuzz技术更快的发现更多的bug，而对外提供的是通过Fuzzification处理过的受保护的二进制文件，利用二者的Fuzz的差距从而实现目标。
 
