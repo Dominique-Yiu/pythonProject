@@ -40,7 +40,7 @@ if __name__ == '__main__':
     for i in range(ProcessNum):
         for j in range(ResourceNum):
             Need[i][j] = MaxRequest[i][j] - Allocation[i][j]
-
+    # 打印c
     print(MaxRequest)
     print(Allocation)
     print(Need)

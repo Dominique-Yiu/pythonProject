@@ -1,19 +1,0 @@
-
-opython:S116"QRename this field "Available" to match the regular expression ^[_a-z][_a-z0-9]*$.(Г’ЛЗ8њХЩюЧ/
-opython:S116"LRename this field "Need" to match the regular expression ^[_a-z][_a-z0-9]*$.(КПУґъяяяя8’ХЩюЧ/
-mpython:S116""ORename this field "Request" to match the regular expression ^[_a-z][_a-z0-9]*$.(в¶Ґ•8’ХЩюЧ/
-upython:S116"RRename this field "Allocation" to match the regular expression ^[_a-z][_a-z0-9]*$.(‡ЈШмъяяяя8њХЩюЧ/
-ppython:S116"RRename this field "MaxRequest" to match the regular expression ^[_a-z][_a-z0-9]*$.(©єќФ8њХЩюЧ/
-upython:S116"RRename this field "SafeSeries" to match the regular expression ^[_a-z][_a-z0-9]*$.(Љзтъыяяяя8њХЩюЧ/
-jpython:S116"LRename this field "Work" to match the regular expression ^[_a-z][_a-z0-9]*$.(ќќГЙ8’ХЩюЧ/
-qpython:S116"NRename this field "Finish" to match the regular expression ^[_a-z][_a-z0-9]*$.(ЙЃкжяяяяя8њХЩюЧ/
-€python:S101"jRename class "Banker_Algorithm" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(йа—·8њХЩюЧ/
-jpython:S100;"LRename method "ShowInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(ЄыЮЪ8њХЩюЧ/
-ipython:S100Q"LRename method "SafeInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(‚Џ№t8њХЩюЧ/
-Bpython:S125]"Remove this commented out code.(н€“‘ьяяяя8њХЩюЧ/
-ppython:S100c"MRename method "isAllZero" to match the regular expression ^[a-z_][a-z0-9_]*$.(”¶ъышяяяя8њХЩюЧ/
-}python:S117s"ZRename this local variable "allFinish" to match the regular expression ^[_a-z][a-z0-9_]*$.(–Ж–Эъяяяя8њХЩюЧ/
-spython:S117t"URename this local variable "pNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(Щїёэ8њХЩюЧ/
-xpython:S117r"ZRename this local variable "safeIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(КЅґЂ8њХЩюЧ/
-hpython:S100p"JRename method "isSafe" to match the regular expression ^[a-z_][a-z0-9_]*$.(мнНЕ8њХЩюЧ/
-spython:S3776p"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(мнНЕ8¦ХЩюЧ/
