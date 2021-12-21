@@ -49,11 +49,13 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Fermat Primality Detection Algorithm.')
     parser.add_argument('N', type=int, default=None, help='The primality that you need to detect.')
     parser.add_argument('K', type=int, default=10, help='iteration count.')
-    parser.add_argument('--FermatDetection', help='Use Fermat-Detection to judge.',
+    parser.add_argument('-F', '--FermatDetection', help='Use Fermat-Detection to judge.',
                         action='store_true')
     args = parser.parse_args()
+
+    print(args)
 
     if args.FermatDetection:
         solution = Solution()
         solution.Fermat_detection(args.N)
-    print(args)
+

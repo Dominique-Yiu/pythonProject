@@ -1,7 +1,3 @@
-import matplotlib.pyplot as plt
-import numpy as np
-x = np.linspace(0, 6 * np.pi, 1000)
-y = np.sin(x)
+import random
 
-plt.plot(x, y)
-plt.show()
+random.randrange()

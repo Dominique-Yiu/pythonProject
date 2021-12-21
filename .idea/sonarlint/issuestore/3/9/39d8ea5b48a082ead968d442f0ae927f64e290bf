@@ -1,0 +1,15 @@
+
+hpython:S117"QRename this parameter "Empty" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬áù¤
+gpython:S117"PRename this parameter "Full" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬áù¤
+hpython:S117"QRename this parameter "Mutex" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬áù¤
+tpython:S117"XRename this local variable "Nothing" to match the regular expression ^[_a-z][a-z0-9_]*$.(×Êˆ™ùÿÿÿÿ
+fpython:S117"ORename this parameter "Out" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬áù¤
+Hpython:S1481"+Remove the unused local variable "Nothing".(×Êˆ™ùÿÿÿÿ
+Hpython:S1481"+Remove the unused local variable "Nothing".(×Êˆ™ùÿÿÿÿ
+mpython:S1178"QRename this parameter "Empty" to match the regular expression ^[_a-z][a-z0-9_]*$.(„Ê¢ûÿÿÿÿ
+lpython:S1178"PRename this parameter "Full" to match the regular expression ^[_a-z][a-z0-9_]*$.(„Ê¢ûÿÿÿÿ
+mpython:S1178"QRename this parameter "Mutex" to match the regular expression ^[_a-z][a-z0-9_]*$.(„Ê¢ûÿÿÿÿ
+tpython:S117?"XRename this local variable "Nothing" to match the regular expression ^[_a-z][a-z0-9_]*$.(×Êˆ™ùÿÿÿÿ
+kpython:S1178"ORename this parameter "Out" to match the regular expression ^[_a-z][a-z0-9_]*$.(„Ê¢ûÿÿÿÿ
+Hpython:S1481?"+Remove the unused local variable "Nothing".(×Êˆ™ùÿÿÿÿ
+Hpython:S1481D"+Remove the unused local variable "Nothing".(×Êˆ™ùÿÿÿÿ

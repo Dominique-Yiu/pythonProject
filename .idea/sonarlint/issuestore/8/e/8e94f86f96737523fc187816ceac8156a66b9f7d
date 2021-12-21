@@ -1,0 +1,16 @@
+
+_python:S2208"GImport only needed names or import the module and then use its members.(ÒëªØ
+dpython:S117	"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï·óÏ
+dpython:S117	"MRename this parameter "N" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï·óÏ
+kpython:S100"URename method "return_AllFactors" to match the regular expression ^[a-z_][a-z0-9_]*$.(Äİ»+
+wpython:S117"[Rename this local variable "AllFactors" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ïü£ùÿÿÿÿ
+ppython:S100"TRename method "get_aMp_exponent" to match the regular expression ^[a-z_][a-z0-9_]*$.(”´Ãøÿÿÿÿ
+}python:S1004"fRename method "Muldular_Repeated_Square_calMethod" to match the regular expression ^[a-z_][a-z0-9_]*$.(’™Ú—
+rpython:S100E"VRename method "find_theMinestRoot" to match the regular expression ^[a-z_][a-z0-9_]*$.(ªª¹»ÿÿÿÿÿ
+xpython:S100S"bRename method "return_theNumberof_primaryRoot" to match the regular expression ^[a-z_][a-z0-9_]*$.(‘íŠ+
+mpython:S100W"QRename method "Euclidean_gcd" to match the regular expression ^[a-z_][a-z0-9_]*$.(„›äŸùÿÿÿÿ
+upython:S100d"^Rename method "return_simpleResidualClass" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÚªŞ
+rpython:S117|"[Rename this local variable "minestRoot" to match the regular expression ^[_a-z][a-z0-9_]*$.(´È·ü
+wpython:S117z"[Rename this local variable "simpleClss" to match the regular expression ^[_a-z][a-z0-9_]*$.(Äí¥ğşÿÿÿÿ
+upython:S100x"YRename method "return_AllPrimaryRoot" to match the regular expression ^[a-z_][a-z0-9_]*$.(ŒØğıÿÿÿÿ
+hpython:S100„"KRename method "Method1" to match the regular expression ^[a-z_][a-z0-9_]*$.(´ÿÏ¼øÿÿÿÿ
